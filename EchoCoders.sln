@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F012BE74-7E7B-4F27-95D0-82DFD2DD7C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoCoders.Notification.FluentEmail", "src\EchoCoders.Notification.FluentEmail\EchoCoders.Notification.FluentEmail.csproj", "{EF186C4C-B1E8-4C7F-8C73-992DF18089BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoCoders.Notification.FluentEmail.DependencyInjection", "src\EchoCoders.Notification.FluentEmail.DependencyInjection\EchoCoders.Notification.FluentEmail.DependencyInjection.csproj", "{2FE245E4-DC7A-4E37-9215-FE83CDF3C4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF186C4C-B1E8-4C7F-8C73-992DF18089BA} = {F012BE74-7E7B-4F27-95D0-82DFD2DD7C3A}
+		{2FE245E4-DC7A-4E37-9215-FE83CDF3C4C0} = {F012BE74-7E7B-4F27-95D0-82DFD2DD7C3A}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF186C4C-B1E8-4C7F-8C73-992DF18089BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF186C4C-B1E8-4C7F-8C73-992DF18089BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF186C4C-B1E8-4C7F-8C73-992DF18089BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF186C4C-B1E8-4C7F-8C73-992DF18089BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE245E4-DC7A-4E37-9215-FE83CDF3C4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE245E4-DC7A-4E37-9215-FE83CDF3C4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE245E4-DC7A-4E37-9215-FE83CDF3C4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE245E4-DC7A-4E37-9215-FE83CDF3C4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
