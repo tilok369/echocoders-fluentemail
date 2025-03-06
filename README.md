@@ -1,5 +1,5 @@
 # echocoders-fluentemail
-A mail utility to send mail via SMTP, Azure Communication or AWS
+A .NET Core mail utility to send mail via SMTP, Azure Communication or AWS
 
 ### Available Fluent Methods
 
@@ -94,3 +94,11 @@ services.AddFluentSmtpEmailService(new SmtpMailSettings("your_smtp_address", 587
 
 ## Supported .NET versions
 .NET 8 and upper
+
+## Packages available in NuGet
+To install the packages from NuGet run below commands
+
+```
+Install-Package EchoCoders.Notification.FluentEmail -Version 1.0.0
+Install-Package EchoCoders.Notification.FluentEmail.DependencyInjection -Version 1.0.0
+```
