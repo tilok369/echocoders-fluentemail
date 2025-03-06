@@ -20,11 +20,4 @@
       <PackageReference Include="Azure.Communication.Email" Version="1.0.1" />
     </ItemGroup>
 
-    <ItemGroup>
-        <None Include="README.md">
-            <Pack>True</Pack>
-            <PackagePath>\</PackagePath>
-        </None>
-    </ItemGroup>
-
 </Project>
