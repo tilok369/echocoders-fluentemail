@@ -1,6 +1,11 @@
 # echocoders-fluentemail
 A .NET Core mail utility to send mail via SMTP, Azure Communication or AWS
 
+# Give it a STAR :star:
+Loving this repository? Show your support by giving this project a star!
+
+[![GitHub stars](https://img.shields.io/github/stars/tilok369/echocoders-fluentemail.svg?style=social&label=Star)](https://github.com/tilok369/echocoders-fluentemail)
+
 ### Available Fluent Methods
 
 ` Setup() `
