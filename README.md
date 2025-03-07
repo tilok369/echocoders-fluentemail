@@ -85,7 +85,7 @@ await mailService
 ```
 
 ## EchoCoders.Notification.FluentEmail.DependencyInjection
-There is a supplementary package which covers dependency injection in .NET Core framework. To inject the depdency we need to call following methods:
+There is a supplementary package which covers dependency injection in .NET Core framework. To inject the dependency we need to call following methods:
 
 ```
 services.AddFluentAzureEmailService(new AzureMailSettings("your_connection_string"));
